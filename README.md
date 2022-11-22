@@ -3,6 +3,6 @@
 - [X] [ThreadPoolExecutor](https://github.com/Bannirui/blogs/blob/master/java/java15%E6%BA%90%E7%A0%81-ThreadPoolExecutor.md)
 - [ ] [ForkJoinPool]()
 - [X] [ArrayBlockingQueue](https://github.com/Bannirui/blogs/blob/master/java/java15%E6%BA%90%E7%A0%81-ArrayBlockingQueue.md)
-- [ ] [LinkedBlockingQueue]()
+- [X] [LinkedBlockingQueue](https://github.com/Bannirui/blogs/blob/master/java/java15%E6%BA%90%E7%A0%81-LinkedBlockingQueue.md)
 - [ ] [SynchronousQueue]()
 - [ ] [DelayWorkedQueue]()
